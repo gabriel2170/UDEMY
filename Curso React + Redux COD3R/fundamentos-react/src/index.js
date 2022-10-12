@@ -8,7 +8,6 @@ const tag = <h1>Hello</h1>
 ReactDOM.render(
   <div>
     <Primeiro></Primeiro>
-
   </div>
   ,
   document.getElementById('root')
